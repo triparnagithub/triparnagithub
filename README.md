@@ -24,13 +24,13 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=EmptyNode&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmptyNode&show_icons=true&locale=en&layout=compact&theme=aura"/>
+<img src="https://github-readme-stats.vercel.app/api?username=triparnagithub&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=triparnagithub&show_icons=true&locale=en&layout=compact&theme=aura"/>
 </td>
 </tr> 
 </table>
 <p align="center">
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=EmptyNode&theme=aura"/>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=triparnagithub&theme=aura"/>
 </p>
 
 
